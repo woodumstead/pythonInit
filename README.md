@@ -1,0 +1,2 @@
+# pythonInit
+Simple package creation
